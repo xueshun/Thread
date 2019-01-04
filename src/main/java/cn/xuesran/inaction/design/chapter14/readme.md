@@ -1,0 +1,1 @@
+### Half-sync / Half-async (半同步/半异步)模式
